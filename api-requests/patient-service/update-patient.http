@@ -1,0 +1,9 @@
+PUT localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+  "name": "aman update",
+  "email": "amantest22@email.com",
+  "address": "123 lan",
+  "dateOfBirth": "1994-07-05"
+}
